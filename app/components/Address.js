@@ -13,6 +13,9 @@ const Address = () => (
             <li>
                 <Link to="/?location=Rio">Rio de Janeiro, Brazil</Link>
             </li>
+            <li>
+                <Link to="/?location=London">London, UK</Link>
+            </li>
         </ol>
     </div>
 );
