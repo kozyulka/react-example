@@ -20,11 +20,11 @@ module.exports = {
     externals: {
         'jquery': 'jQuery'
     },
-    devServer: {
-        inline: true,
-        contentBase: './app',
-        port: 8010
-    },
+    // devServer: {
+    //     inline: true,
+    //     contentBase: './app',
+    //     port: 8010
+    // },
     module: {
         loaders: [
             {
