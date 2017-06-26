@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const Address = () => (
     <div>
         <h1 className="text-center page-title">Examples</h1>
-        <p>Try this:</p>
+        <p>Here are a few cities you could try out:</p>
         <ol>
             <li>
                 <Link to="/?location=Kiev">Kiev, Ukraine</Link>

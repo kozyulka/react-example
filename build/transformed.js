@@ -12764,6 +12764,11 @@ const About = () => __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
         "h1",
         null,
         "About"
+    ),
+    __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+        "p",
+        null,
+        "Welcome to the about page"
     )
 );
 
@@ -12791,7 +12796,7 @@ const Address = () => __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElemen
     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
         'p',
         null,
-        'Try this:'
+        'Here are a few cities you could try out:'
     ),
     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
         'ol',
