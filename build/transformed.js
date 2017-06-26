@@ -12791,7 +12791,7 @@ const Address = () => __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElemen
     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
         'p',
         null,
-        'Here are a few cities you could try out:'
+        'Try this:'
     ),
     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
         'ol',
